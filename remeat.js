@@ -1,8 +1,7 @@
 var observer, 
     callback, 
     options, 
-    meats,
-    freshmeat;
+    meats;
 
 var meatword = "_magnusmagnus",
     queued = false;
