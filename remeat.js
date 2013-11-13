@@ -3,7 +3,7 @@ var observer,
     options, 
     meats;
 
-var meatword = "_magnusmagnus",
+var meatword = "meatlejuice meatlejuice meatlejuice",
     queued = false;
 
 callback = function( recordqueue ) {
